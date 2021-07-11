@@ -1,2 +1,2 @@
 # Uni-Bootcamp
-Projects from Coding Bootcamp at University, written in Processing
+Projects from 2 week Coding Bootcamp at University, written in Processing
